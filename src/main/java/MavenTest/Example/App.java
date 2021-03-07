@@ -10,5 +10,6 @@ public class App
     {
       System.out.println( "My First test Hello World!" );
       System.out.println("Test Remote edit");
+      int i=0;
     }
 }
